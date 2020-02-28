@@ -9,7 +9,7 @@ package ejerciciogit;
  *
  * @author USUARIO
  */
-public class Holamundo {
+public class EjercicioGit {
     
     public static void main(String []args){
    
