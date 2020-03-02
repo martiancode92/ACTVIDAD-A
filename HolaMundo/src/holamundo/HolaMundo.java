@@ -16,7 +16,8 @@ public class HolaMundo {
      */
     public static void main(String[] args) {
         System.out.println("HolaMundoooo");
-        System.out.println("Los primeros cambios de jose");
+        System.out.println("Los primeros cambios de Jose");
+        
     }
     
 }
