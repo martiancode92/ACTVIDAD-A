@@ -18,6 +18,8 @@ public class HolaMundo {
         System.out.println("HolaMundoooo");
         System.out.println("Los primeros cambios de Jose");
         
+        System.out.println("ya hemos fusionado la rama24 ");
+        System.out.println("Añadimos modificaciones y lo subimos");
     }
     
 }
